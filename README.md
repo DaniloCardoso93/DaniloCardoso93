@@ -13,15 +13,15 @@
 <br>
 <li>🚀 Comecei cursando Direito em 2013, porém estava totalmente insatisfeito e então resolvi trancar
 e começar minha trajetória na área da tecnologia. Desta forma, decidi começar Engenharia da
-Computação, estou em transição de carreira e para isso comecei o curso na Kenzie Academy
-Brasil para me especializar no ramo e então começar atuar na área na qual realmente quero
+Computação, estou em transição de carreira e para isso comecei e me formei no curso na Kenzie Academy
+Brasil para me especializar no ramo, curso esse de 2000 horas com formação em Desenvolvedor Web Full Stack para então começar atuar na área na qual realmente quero
 trabalhar.🚀</li><br>
 <br>
 <li>👨‍💻 Atualmente sou Desenvolvedor Full Stack, e estou estudando novas tecnologias para aplicação tanto no front quanto no back.</li>
 <br>
 <li>🎓 Tenho conhecimento em HTML, CSS, JavaScript, React, React Native, NextJs, NodeJS, ExpressJs, NestJs, TypeORM, PostgreSQL, Python, Django e conhecimento em UX UI.  </li>
 <br>
-<li>🖥️ Atualmente buscando minha primeira oportunidade no back ou full stack. </li>
+<li>🖥️ Atualmente buscando minha primeira oportunidade como full stack ou back-end. </li>
 </ul>
 <br>
 <!--FIM descrição-->
