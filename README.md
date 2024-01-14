@@ -9,19 +9,23 @@
 ## Olá, Me chamo Danilo Cardoso.
 
 <ul align="left">
-<li> 📍 Sou do Rio de Janeiro - RJ 30 anos </li>
+<li> 📍 Sou do Rio de Janeiro - RJ 31 anos </li>
 <br>
-<li>🚀 Comecei cursando Direito em 2013, porém estava totalmente insatisfeito e então resolvi trancar
-e começar minha trajetória na área da tecnologia. Desta forma, decidi começar Engenharia da
-Computação, estou em transição de carreira e para isso comecei e me formei no curso na Kenzie Academy
-Brasil para me especializar no ramo, curso esse de 2000 horas com formação em Desenvolvedor Web Full Stack para então começar atuar na área na qual realmente quero
-trabalhar.🚀</li><br>
+<li>🚀 Experiência com desenvolvimento de projetos utilizando tecnologias como, HTML, CSS, JavaScript, React, TypeScript, Node, Python e Django.
+Familiaridade com AWS, Azure e Docker.
+Vivência com metodologias ágeis como SCRUM e habilidades com Git/GitHub para versionamento de código.
+Experiência na construção de projetos em grupo de conclusão de módulo no curso da KenzieAcademy Brasil, onde era simulado o mercado de trabalho,
+logo após conclusão do curso comecei um estágio na BTG Pactual, onde fiquei 2 meses e então fui chamado para uma vaga de emprego como Desenvolvedor
+FullStack Junior, na BMS Consultoria Tributária onde estou demonstrando grandes conhecimentos e sendo reconhecido e realocado nos dois projetos principais da empresa.
+Além disso possuo conhecimento em frameworks Next, Nest e CSS como styled-components, Tailwind, MUI, Chakra-UI e outras, bem como conhecimento nas principais bibliotecas de React como
+react-icons, react-hook-form, react-router-dom, entre outras.
+Familiaridade com boas práticas de desenvolvimento clean code.🚀</li><br>
 <br>
-<li>👨‍💻 Atualmente sou Desenvolvedor Full Stack, e estou estudando novas tecnologias para aplicação tanto no front quanto no back.</li>
+<li>👨‍💻 Atualmente sou Desenvolvedor Full Stack, e estou em busca de novos desafios e continuo estudando novas tecnologias para aplicação tanto no front quanto no back.</li>
 <br>
-<li>🎓 Tenho conhecimento em HTML, CSS, JavaScript, React, React Native, NextJs, NodeJS, ExpressJs, NestJs, TypeORM, PostgreSQL, Python, Django e conhecimento em UX UI.  </li>
+<li>🎓 Meus principais conhecimento são em HTML, CSS, JavaScript, React, NextJs, NodeJS, ExpressJs, TypeORM, PostgreSQL, Python, Django, Flask, AWS e Azure.  </li>
 <br>
-<li>🖥️ Atualmente buscando minha primeira oportunidade como full stack ou back-end. </li>
+<li>🖥️ Atualmente buscando uma nova oportunidade como desenvolvedor para novos desafios. </li>
 </ul>
 <br>
 <!--FIM descrição-->
@@ -35,7 +39,7 @@ trabalhar.🚀</li><br>
 <h2 align="center">🛠️&ensp; <i>T E C N O L O G I A S</i> &ensp;🛠️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,ts,nextjs,vuejs,nodejs,nestjs,express,postgresql,jest,vercel,vscode,figma,styledcomponents,tailwind,python,django,docker,aws&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,ts,nextjs,nodejs,express,postgresql,jest,vercel,vscode,figma,styledcomponents,tailwind,python,django,docker,aws,azure&perline=8" />
   </a>
 </p>
 <br><br><br><br><br>
