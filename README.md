@@ -21,9 +21,9 @@ Além disso possuo conhecimento em frameworks Next, Nest e CSS como styled-compo
 react-icons, react-hook-form, react-router-dom, entre outras.
 Familiaridade com boas práticas de desenvolvimento clean code.🚀</li><br>
 <br>
-<li>👨‍💻 Atualmente sou Desenvolvedor Full Stack, e estou em busca de novos desafios e continuo estudando novas tecnologias para aplicação tanto no front quanto no back.</li>
+<li>👨‍💻 Atualmente sou Desenvolvedor Full Stack Junior na BMS Consultoria Tributária, mas continuo em busca de novos desafios e oportunidades que possam me fazer crescer e melhorar como desenvolvedor, continuo estudando novas tecnologias para aplicação tanto no front quanto no back, atualmente estou focado em aprender C# e seus frameworks</li>
 <br>
-<li>🎓 Meus principais conhecimento são em HTML, CSS, JavaScript, React, NextJs, NodeJS, ExpressJs, TypeORM, PostgreSQL, Python, Django, Flask, AWS e Azure.  </li>
+<li>🎓 Meus principais conhecimento são em HTML, CSS, JavaScript, TypeScript, React, NextJs, NodeJS, ExpressJs, TypeORM, PostgreSQL, Python, Django, Flask, AWS e Azure.  </li>
 <br>
 <li>🖥️ Atualmente buscando uma nova oportunidade como desenvolvedor para novos desafios. </li>
 </ul>
